@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "おかあさんの唄",
+  "base_artist": "アン・サリー",
+  "createdAt": "2026-03-14T06:21:03.748023Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おかあさんの唄",
+      "artist": "Ann Sally",
+      "has_synced": true,
+      "path": "select/01_おかあさんの唄_Ann_Sally.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "おかあさんの唄 - Okasan no Uta",
+      "artist": "Ann Sally",
+      "has_synced": true,
+      "path": "select/02_おかあさんの唄_-_Okasan_no_Uta_Ann_Sally.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "おかあさんの唄 (「おおかみこどもの雨と雪」より)",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/03_おかあさんの唄_(「おおかみこどもの雨と雪」より)_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おかあさんの唄",
+      "artist": "Ann Sally",
+      "has_synced": false,
+      "path": "select/pl_01_おかあさんの唄_Ann_Sally.txt"
+    }
+  ]
+}
